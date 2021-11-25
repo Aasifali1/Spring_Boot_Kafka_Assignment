@@ -34,5 +34,5 @@
 6. You will see the consumed messages in the terminal where this application is running.
 7. If you want to get all messages then go for this URL:
      ```
-    http://localhost:8081/kafka/allMessages(http://localhost:8081/kafka/allMessages)
+    http://localhost:8081/kafka/allMessages
     ```
